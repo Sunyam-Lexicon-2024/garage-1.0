@@ -1,7 +1,7 @@
 namespace Garage_1_0.Library.UI.Views;
 
 using Garage_1_0.Library.Models;
-using SuperConsole;
+using SharpConsole;
 
 public class MainMenuView(IEnumerable<IViewItem>? viewMenuItems = null) : IUIView
 {

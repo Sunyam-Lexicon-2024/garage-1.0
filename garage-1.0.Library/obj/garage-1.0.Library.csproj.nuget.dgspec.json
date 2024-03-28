@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj": {
-                "projectPath": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj"
+              "/home/sunyam/Projects/csharp/lexicon/garage-1.0/sharp-console/SharpConsole.csproj": {
+                "projectPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/sharp-console/SharpConsole.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj": {
+    "/home/sunyam/Projects/csharp/lexicon/garage-1.0/sharp-console/SharpConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj",
-        "projectName": "SuperConsole",
-        "projectPath": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj",
+        "projectUniqueName": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/sharp-console/SharpConsole.csproj",
+        "projectName": "SharpConsole",
+        "projectPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/sharp-console/SharpConsole.csproj",
         "packagesPath": "/home/sunyam/.nuget/packages/",
-        "outputPath": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/obj/",
+        "outputPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/sharp-console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sunyam/.nuget/NuGet/NuGet.Config"

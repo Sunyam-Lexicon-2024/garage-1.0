@@ -5,7 +5,7 @@ using Garage_1_0.Library.Models;
 using Garage_1_0.Library.Services;
 using Garage_1_0.Library.UI.Views;
 using Microsoft.Extensions.Configuration;
-using SuperConsole;
+using SharpConsole;
 
 public class UI : IUI
 {
