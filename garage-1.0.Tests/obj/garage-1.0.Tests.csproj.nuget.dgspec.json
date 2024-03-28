@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Tests/garage-1.0.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Console/garage-1.0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Console/garage-1.0.csproj",
+        "projectName": "garage-1.0",
+        "projectPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Console/garage-1.0.csproj",
+        "packagesPath": "/home/sunyam/.nuget/packages/",
+        "outputPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sunyam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/garage-1.0.Library.csproj": {
+                "projectPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/garage-1.0.Library.csproj"
+              },
+              "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj": {
+                "projectPath": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/garage-1.0.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/garage-1.0.Library.csproj",
+        "projectName": "garage-1.0.Library",
+        "projectPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/garage-1.0.Library.csproj",
+        "packagesPath": "/home/sunyam/.nuget/packages/",
+        "outputPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sunyam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj": {
+                "projectPath": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Tests/garage-1.0.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Tests/garage-1.0.Tests.csproj",
+        "projectName": "garage-1.0.Tests",
+        "projectPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Tests/garage-1.0.Tests.csproj",
+        "packagesPath": "/home/sunyam/.nuget/packages/",
+        "outputPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sunyam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Console/garage-1.0.csproj": {
+                "projectPath": "/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Console/garage-1.0.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj",
+        "projectName": "SuperConsole",
+        "projectPath": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/SuperConsole.csproj",
+        "packagesPath": "/home/sunyam/.nuget/packages/",
+        "outputPath": "/home/sunyam/Projects/csharp/lexicon/utilities/SuperConsole/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sunyam/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

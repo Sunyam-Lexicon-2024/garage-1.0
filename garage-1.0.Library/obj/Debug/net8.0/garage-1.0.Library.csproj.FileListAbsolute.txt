@@ -1,0 +1,16 @@
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.AssemblyInfoInputs.cache
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.AssemblyInfo.cs
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.csproj.CoreCompileInputs.cache
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.sourcelink.json
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/bin/Debug/net8.0/garage-1.0.Library.deps.json
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/bin/Debug/net8.0/garage-1.0.Library.dll
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/bin/Debug/net8.0/garage-1.0.Library.pdb
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.dll
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/refint/garage-1.0.Library.dll
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.pdb
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/ref/garage-1.0.Library.dll
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/bin/Debug/net8.0/SuperConsole.dll
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/bin/Debug/net8.0/SuperConsole.pdb
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.csproj.AssemblyReference.cache
+/home/sunyam/Projects/csharp/lexicon/garage-1.0/garage-1.0.Library/obj/Debug/net8.0/garage-1.0.Library.csproj.CopyComplete
