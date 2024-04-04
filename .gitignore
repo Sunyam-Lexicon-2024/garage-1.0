@@ -2,6 +2,6 @@
 .vscode/
 
 # .NET
-**/obj/
-**/bin/
-**/.mono/
+**/obj/*
+**/bin/*
+**/.mono/*
