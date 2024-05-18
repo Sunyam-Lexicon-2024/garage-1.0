@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garage-1.0", "garage-1.0.Console\garage-1.0.csproj", "{F77D772C-6854-4173-A991-82C89BCD2280}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garage-1.0", "Garage-1.0.Console\Garage-1.0.csproj", "{F77D772C-6854-4173-A991-82C89BCD2280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garage-1.0.Tests", "garage-1.0.Tests\garage-1.0.Tests.csproj", "{4DF74C8C-3D6C-41A4-8CBA-F128D8F154C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garage-1.0.Tests", "Garage-1.0.Tests\Garage-1.0.Tests.csproj", "{4DF74C8C-3D6C-41A4-8CBA-F128D8F154C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "garage-1.0.Library", "garage-1.0.Library\garage-1.0.Library.csproj", "{E5695757-0249-4BFD-99D5-AD233A114849}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garage-1.0.Library", "Garage-1.0.Library\Garage-1.0.Library.csproj", "{E5695757-0249-4BFD-99D5-AD233A114849}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

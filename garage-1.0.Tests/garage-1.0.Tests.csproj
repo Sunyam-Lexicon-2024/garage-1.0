@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\garage-1.0.Console\garage-1.0.csproj" />
+    <ProjectReference Include="..\Garage-1.0.Console\Garage-1.0.csproj" />
   </ItemGroup>
 
 </Project>
